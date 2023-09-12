@@ -1,8 +1,17 @@
 {
   "days": [
-    { "id": 1, "day": 1 },
-    { "id": 2, "day": 2 },
-    { "id": 3, "day": 3 }
+    {
+      "id": 1,
+      "day": 1
+    },
+    {
+      "id": 2,
+      "day": 2
+    },
+    {
+      "id": 3,
+      "day": 3
+    }
   ],
   "words": [
     {
@@ -46,6 +55,27 @@
       "eng": "pencil",
       "kor": "연필",
       "isDone": false
+    },
+    {
+      "eng": "asdasd",
+      "kor": "임점묵",
+      "day": "3",
+      "isDone": false,
+      "id": 7
+    },
+    {
+      "eng": "asdasd",
+      "kor": "임점묵",
+      "day": "3",
+      "isDone": false,
+      "id": 8
+    },
+    {
+      "eng": "computer",
+      "kor": "컴퓨터",
+      "day": "3",
+      "isDone": false,
+      "id": 9
     }
   ]
 }
