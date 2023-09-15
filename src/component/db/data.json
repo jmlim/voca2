@@ -57,25 +57,25 @@
       "isDone": false
     },
     {
-      "eng": "asdasd",
-      "kor": "임점묵",
-      "day": "3",
-      "isDone": false,
-      "id": 7
-    },
-    {
-      "eng": "asdasd",
-      "kor": "임점묵",
-      "day": "3",
-      "isDone": false,
-      "id": 8
-    },
-    {
       "eng": "computer",
       "kor": "컴퓨터",
       "day": "3",
       "isDone": false,
       "id": 9
+    },
+    {
+      "eng": "jmlim",
+      "kor": "임정묵",
+      "day": "1",
+      "isDone": false,
+      "id": 10
+    },
+    {
+      "eng": "1231",
+      "kor": "123",
+      "day": "1",
+      "isDone": false,
+      "id": 11
     }
   ]
 }
